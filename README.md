@@ -6,6 +6,10 @@ IPython Notebook requires JavaScript. Please enable it to proceed.
 实战 SSH 端口转发:  
 https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/index.html
 
+Running a notebook server:  
+https://jupyter-notebook.readthedocs.io/en/latest/public_server.html#notebook-server-security  
+
+
 
 
 
