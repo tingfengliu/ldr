@@ -9,6 +9,9 @@ https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/index.html
 Running a notebook server:  
 https://jupyter-notebook.readthedocs.io/en/latest/public_server.html#notebook-server-security  
 
+用Xshell远程连接服务器上的jupyter notebook:  
+https://blog.csdn.net/dusy111/article/details/79301296
+
 
 
 
