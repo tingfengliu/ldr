@@ -12,6 +12,9 @@ https://jupyter-notebook.readthedocs.io/en/latest/public_server.html#notebook-se
 用Xshell远程连接服务器上的jupyter notebook:  
 https://blog.csdn.net/dusy111/article/details/79301296
 
+x2go:  
+图形界面远程访问  
+
 
 
 
