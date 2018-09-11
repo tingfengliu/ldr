@@ -1,6 +1,6 @@
 # ldr: long-distance-relationship
 
-问题:  
+Xshell无法打开jupyter:  
 IPython Notebook requires JavaScript. Please enable it to proceed.  
 
 实战 SSH 端口转发:  
@@ -15,13 +15,17 @@ https://blog.csdn.net/dusy111/article/details/79301296
 x2go:  
 图形界面远程访问  
 
-灯管报修  
+灯管报修:  
 http://zxbx.suda.edu.cn/WebAccess/  
 报修成功，工单号码：201809110031
 
-jupyter扩展  
-conda install -c conda-forge jupyter_contrib_nbextensions
-conda install -c conda-forge jupyter_nbextensions_configurator
+jupyter扩展:  
+conda install -c conda-forge jupyter_contrib_nbextensions  
+conda install -c conda-forge jupyter_nbextensions_configurator  
+
+scikit-learn 0.18 中文文档:  
+http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030181  
+
 
 
 
