@@ -19,6 +19,11 @@ x2go:
 http://zxbx.suda.edu.cn/WebAccess/  
 报修成功，工单号码：201809110031
 
+jupyter扩展  
+conda install -c conda-forge jupyter_contrib_nbextensions
+conda install -c conda-forge jupyter_nbextensions_configurator
+
+
 
 
 
