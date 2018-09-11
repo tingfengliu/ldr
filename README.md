@@ -31,6 +31,8 @@ jupyter中的程序是按单核进行运算的么?如何设置多核(在集群�
 在linux(Red Hat)_安装jupyter, Git?  
 http://blog.51cto.com/13695764/2161673
 
+RedHat学习:  
+https://www.linuxprobe.com/
 
 
 
