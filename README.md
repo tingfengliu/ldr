@@ -15,6 +15,10 @@ https://blog.csdn.net/dusy111/article/details/79301296
 x2go:  
 图形界面远程访问  
 
+灯管报修  
+http://zxbx.suda.edu.cn/WebAccess/  
+报修成功，工单号码：201809110031
+
 
 
 
