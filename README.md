@@ -26,6 +26,8 @@ conda install -c conda-forge jupyter_nbextensions_configurator
 scikit-learn 0.18 中文文档:  
 http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030181  
 
+jupyter中的程序是按单核进行运算的么?如何设置多核(在集群中使用jupyter)    
+
 
 
 
