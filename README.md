@@ -54,6 +54,10 @@ http://blog.51cto.com/13695764/2161673
 RedHat学习:  
 https://www.linuxprobe.com/
 
+Natural Language Processing Made Easy – using SpaCy (​in Python):  
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/  
+译http://www.dataguru.cn/translate.php?mod=view&aid=25  
+
 
 
 
