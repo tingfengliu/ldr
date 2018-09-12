@@ -1,7 +1,4 @@
-# ldr: long-distance-relationship
-
-将该文件作为一个可以在网络中随时查看的记事本
-ldr=long-distance-relationship
+# ldr: 网络记录本
 
 关于连接字符串的两个博文:  
 https://blog.csdn.net/csdn_0_001/article/details/79269619  
