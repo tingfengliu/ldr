@@ -1,5 +1,12 @@
 # ldr:网络记录本; 倒序记录; 笔记一个编号;++
 
+
+
+3, <<Python自然语言处理>>:  
+http://download.csdn.net/download/jiaoxiaogu/4352008
+
+
+
 2, 如何自定义spacy模型:  
 
 
