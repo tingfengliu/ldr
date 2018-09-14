@@ -1,4 +1,23 @@
-# ldr: 网络记录本
+# ldr:网络记录本; 倒序记录; 笔记一个编号;++
+
+2, 如何自定义spacy模型:  
+
+
+
+
+
+1, SpaCy v2.0（七）实例 - 训练分析模型Parser for custom semantics:  
+https://www.jianshu.com/p/4dbd8b440c0c
+
+SpaCy v2.0 （二）浅译--训练分析模型:  
+https://www.jianshu.com/p/e2aae3fafd65  
+
+(1)-(7)都有:  
+https://www.jianshu.com/u/3b77f85cc918
+
+
+=============================================================================================================
+=============================================================================================================
 
 关于连接字符串的两个博文:  
 https://blog.csdn.net/csdn_0_001/article/details/79269619  
@@ -58,20 +77,5 @@ Natural Language Processing Made Easy – using SpaCy (​in Python):
 https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/  
 译http://www.dataguru.cn/translate.php?mod=view&aid=25  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=============================================================================================================
+=============================================================================================================
