@@ -4,7 +4,8 @@
 
 6, urllib和urllib3的用法   
 https://www.cnblogs.com/xiao-apple36/p/8433400.html
-
+request:  
+http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
 
 5,Web of Science爬虫实战;  
 https://blog.csdn.net/jgzquanquan/article/details/78827413  
