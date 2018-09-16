@@ -1,7 +1,7 @@
 # ldr: 网络记事本
 
-7, VMware Ubuntu安装详细过程（非常靠谱）  
-https://blog.csdn.net/stpeace/article/details/78598333
+7, VMware Ubuntu安装详细过程  
+https://blog.csdn.net/iqmae68024/article/details/54772918
 
 6, urllib和urllib3的用法   
 https://www.cnblogs.com/xiao-apple36/p/8433400.html
