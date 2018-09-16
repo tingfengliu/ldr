@@ -6,7 +6,17 @@
 
 
 5,Web of Science爬虫实战;  
-https://blog.csdn.net/jgzquanquan/article/details/78827413
+https://blog.csdn.net/jgzquanquan/article/details/78827413  
+
+解决python - Accessing ISI Web of Science through SOAP  
+http://www.itkeyword.com/doc/5385738305959262451/accessing-isi-web-of-science-through-soap  
+
+集搜客可以收集web of science数据库中的数据吗？  
+http://www.gooseeker.com/doc/thread-4717-1-1.html
+
+集搜客网络爬虫的核心名词  
+http://www.gooseeker.com/doc/article-340-1.html  
+
 
 4, 如何将谷歌翻译当做一个Python包使用?
 
