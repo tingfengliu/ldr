@@ -2,8 +2,11 @@
 
 
 
+6,
 
 
+5,Web of Science爬虫实战;  
+https://blog.csdn.net/jgzquanquan/article/details/78827413
 
 4, 如何将谷歌翻译当做一个Python包使用?
 
