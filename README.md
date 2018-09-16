@@ -1,8 +1,9 @@
-# ldr:网络记录本; 倒序记录; 笔记一个编号;++
+# ldr: 网络记事本
 
 
 
-6,
+6, urllib和urllib3的用法   
+https://www.cnblogs.com/xiao-apple36/p/8433400.html
 
 
 5,Web of Science爬虫实战;  
