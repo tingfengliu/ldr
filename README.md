@@ -2,16 +2,16 @@
 
 
 
+
+
+
+4, 如何将谷歌翻译当做一个Python包使用?
+
 3, <<Python自然语言处理>>:  
 http://download.csdn.net/download/jiaoxiaogu/4352008
 
 
-
 2, 如何自定义spacy模型:  
-
-
-
-
 
 1, SpaCy v2.0（七）实例 - 训练分析模型Parser for custom semantics:  
 https://www.jianshu.com/p/4dbd8b440c0c
