@@ -1,5 +1,11 @@
 # ldr: 网络记事本
 
+
+
+8, Xshell如何连接虚拟机Ubuntu-serve  
+https://www.linuxidc.com/Linux/2017-08/146222.htm
+
+
 7, VMware Ubuntu安装详细过程  
 https://blog.csdn.net/iqmae68024/article/details/54772918
 
