@@ -36,8 +36,11 @@ http://www.gooseeker.com/doc/article-340-1.html
 
 4, 如何将谷歌翻译当做一个Python包使用?
 
-3, <<Python自然语言处理>>:  
+3, <<Python自然语言处理>>:    
 http://download.csdn.net/download/jiaoxiaogu/4352008
+
+Natural Language Processing with Python
+http://www.nltk.org/book/  
 
 
 2, 如何自定义spacy模型:  
