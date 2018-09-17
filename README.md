@@ -1,6 +1,13 @@
 # ldr: 网络记事本
+================================================================
+================================================================
 
 
+10,
+
+
+9, Networkx参考手册  
+https://blog.csdn.net/qingqingpiaoguo/article/details/60570894
 
 8, Xshell如何连接虚拟机Ubuntu-serve  
 https://www.linuxidc.com/Linux/2017-08/146222.htm
