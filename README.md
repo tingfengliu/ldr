@@ -6,7 +6,9 @@
 
 
 
-12, 
+12, Ubuntu远程桌面与X2Go  
+https://www.howtoing.com/x2go-server-ubuntu-14-04/
+
 
 
 11, Kali开启SSH服务   
