@@ -1,6 +1,8 @@
 # ldr: 网络记事本
 ================================================================
 ================================================================
+14, 项目文档托管中心  
+https://docs.readthedocs.io/en/latest/getting_started.html
 
 
 13, 安装jupyter插件: Installing jupyter_contrib_nbextensions
