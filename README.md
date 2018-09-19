@@ -3,7 +3,8 @@
 ================================================================
 
 
-
+13, 安装jupyter插件: Installing jupyter_contrib_nbextensions
+https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
 
 
 12, Ubuntu远程桌面与X2Go  
