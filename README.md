@@ -1,6 +1,17 @@
 # ldr: 网络记事本
 ================================================================
 ================================================================
+
+
+
+
+
+
+15, re  Python参考
+https://docs.python.org/3/library/re.html#regular-expression-syntax
+
+
+
 16, 关于Python正则表达式的调试器  
 http://kodos.sourceforge.net/
 
