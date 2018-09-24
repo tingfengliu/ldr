@@ -1,1 +1,5 @@
-`ctrl+D`可以在VSC中选中单词;  
+1, `ctrl+D`可以在VSC中选中单词;  
+
+2, 如何在markdown表格中输入竖线;
+&#124; == |  
+<code> A &#124; B </code> ~ `A|B`
