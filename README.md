@@ -3,10 +3,30 @@
 ================================================================
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20, Python深复制浅复制or深拷贝浅拷贝  
+https://www.cnblogs.com/alan-babyblog/p/5177597.html
+
+
 19, nltk  
 https://blog.csdn.net/longji/article/category/7099974
-
-
 
 18, re  
 
