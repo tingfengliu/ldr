@@ -5,8 +5,8 @@
 
 
 
-
-
+21: Latex数学符号  
+http://mohu.org/info/symbols/symbols.htm
 
 
 
