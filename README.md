@@ -1,12 +1,19 @@
 # ldr: 记事本
 提交所有数据之后, 改名字:  
 
-#给出一个数字: 十进制(二进制,八进制, 十六进制), 将其表示为其他进制, 然后表格的形式, 打印该数字的所有进制数;
-#number是一个序列,打印表格, 否则该表格只有一行
-def ibox(number):
-    number_int = int(number)
-    number_bin = bin(number)    
-    number_oct = oct(number)    
-    number_hex = hex(number)    
-    print(number,":", number_int, number_bin, number_oct, number_hex)
-ibox(11)
+## 对数坐标系的含义: `连同数据一起伸缩坐标轴`
+plt.close("all")
+x = np.linspace(1,110,11)
+y = x
+y2 = np.log(x)
+
+fig, axes =plt.subplots(1,3, figsize=(12,4) )
+
+axes[0].plot(x, y, "-o", linewidth=2)
+axes[1].semilogy(y, "-o", linewidth = 2)
+axes[2].plot(x, y2, "-o", linewidth = 2)
+
+axes[0].set_ylim(1, 120) 
+#y轴是对数坐标,数值不能为0或负值
+axes[1].set_ylim(1, 120) 
+axes[2].set_ylim(1, 5)
