@@ -1,0 +1,73 @@
+# 该文件夹用于记录自己学习和生活中的点滴; 
+# abt+dir: 关于(about)目录(dir)的信息
+# hk文件可以分享, mgt文件不可分享;
+
+hk: Knowledge Hierarchy
+    mat, Mathematics
+    phy, Physics 
+    chem, Chemistry 
+    ms, Materialogy Science  
+    cp, Computer 
+    misc, Miscellaneous
+mgt: Management
+    logbr, 周记文件
+work: 工作目录
+    lgbr: 日记文件
+
+一个正规的学习包包含:
+    1) 用户指南 ugxx
+    2) 快捷键 stkxx
+    3) 杂项 miscxx, 补充ugxx
+    4) 例子 exxx,或者为目录xxex
+
+目录命名规则: vimlns, clns, gitlns...
+文件命名规则: ugvim,stkvim,miscvim,exvim,如果需要扩展名,使用icebr,br
+
+ blk: blank空白目录,测试后可删除的目录,可随时清空里面的内容
+.blk: 空白目录当中的文件都使用.blk作为扩展名 
+ clc: 其他目录中的空白文件,程序运行后产生的多余项可用此删除项
+
+
+朱比特文档结构: 
+    章: 一级标题 2, 
+    节: 二级标题 2.1,2.2,2.3 , 
+    小结: 三级标题 2.3.1, 紧凑小结之间用一条分割线
+    小小节: 2.3.1.1, 
+    问题用三段式描述:
+                    问题目的,藐视,概念解释;
+                    问题解答,操作,给出代码;
+                    问题总结,分析,注意事项;
+    临时插入的问题(与文档主题无关,纯属底层技能的总结,如比较vstack,hstack,_r,_c的说明): 起始两个分割线, 结束一个分割线
+
+以br开头便于调用自定义函数或包;br[tab]
+brtoz: tools of br
+    关于图像的:brimage 
+
+
+    关于dot的:brdot
+                    //start
+                    # -*- coding: utf-8 -*-
+                    import graphviz
+
+                    def showdot(dot_path):
+                        """ 显示某路径下的dot文件"""
+                        with open(dot_path,'r',encoding = 'utf-8') as f:
+                            dot_graph =f.read()
+                        print("{:s}:\n\n{:s}".format(dot_path,dot_graph))
+
+                    def dot2graph(dot_path):
+                        """ 将某路径下的dot文件转化为图形"""
+                        with open(dot_path,'r',encoding = 'utf-8') as f:
+                            dot_graph =f.read()
+                        return graphviz.Source(dot_graph)
+
+                    //end
+
+    其他的:
+
+
+
+
+
+
+
