@@ -4,3 +4,6 @@
 
 Centos6.9升级glibc解决“libc.so.6: version GLIBC_2.14 not found”报错问题
 https://blog.csdn.net/heylun/article/details/78833050
+
+
+Amp: A modular approach to machine learning in atomistic simulations”, A. Khorshidi, and A.A. Peterson, Comput. Phys. Commun. 207, 310–324 (2016)
