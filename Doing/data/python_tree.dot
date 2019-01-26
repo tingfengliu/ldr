@@ -1,0 +1,30 @@
+digraph python_tree{  //指定图的类型和名字
+ 
+    Python -> Numpy;  //创建节点和边线
+    Python -> Scipy;
+    Python -> ASE    
+    Python -> Pymatgen;
+    Python -> ".";
+
+    ASE -> "atoms.py";
+    ASE -> "eos.py";    
+    ASE -> "run.py";
+    ASE -> "units.py";
+    ASE -> "calculators";    
+    ASE -> "build";
+    ASE -> "visualize";
+    ASE -> "..";
+
+    calculators -> "abinit.py";
+    calculators -> "dmol.py";
+    calculators -> "vasp";
+    calculators -> "...";
+
+    vasp -> "create_input.py";
+    vasp -> "interactive.py";
+    vasp -> "setups.py";
+    vasp -> "vasp.py";
+    vasp -> "....";
+    
+    label = " "   
+     }
