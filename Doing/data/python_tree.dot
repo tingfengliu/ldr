@@ -1,26 +1,29 @@
-digraph python_tree{  //指定图的类型和名字
- 
-    Python -> Numpy;  //创建节点和边线
-    Python -> Scipy;
-    Python -> Medeleev;
-    Python -> ASE    
-    Python -> "非Python语言编写的程序";
+digraph python{  
+    node [shape=box];    
+    edge [arrowsize = 0.8]; 
+
+    " Python "[color=lightblue,style=filled];
+    " Python " -> {Numpy, Scipy, ASE, Pymagen, "..."};
+    "非Python"[style=filled,color=".7 .3 1.0"];       
+    subgraph cluster0{
+        rankdir=LR;
+        rank = same;
+        " Python " -> "非Python"[dir=both, label="API"]}
+        
+    ASE -> "calculators";        
+    subgraph cluster1{
+        node [shape=box];
+        label = "包";
+        calculators -> "abinit.py";
+        calculators -> "dmol.py";
+        calculators -> "vasp";}
 
     ASE -> "atoms.py";
-    ASE -> "run.py";
-    ASE -> "calculators";    
-    ASE -> "build";
-    ASE -> "visualize";
-
-    calculators -> "abinit.py";
-    calculators -> "dmol.py";
-    calculators -> "vasp";
-    calculators -> "siesta";
-    calculators -> "jacapo";
-
-    vasp -> "create_input.py";
-    vasp -> "setups.py";
-    vasp -> "vasp.py";
-    
-    label = " "   
-     }
+    subgraph cluster2{
+        node [shape=box];
+        label = "模块";
+        "atoms.py" -> Atoms;
+        "atoms.py" -> "set_*()";
+        "atoms.py" -> "get_*()";
+    }
+}
