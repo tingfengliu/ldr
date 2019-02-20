@@ -3,14 +3,15 @@ digraph python{
     edge [arrowsize = 0.8]; 
 
     " Python "[color=lightblue,style=filled];
-    " Python " -> {Numpy, Scipy, ASE, Pymagen, "..."};
+    " Python " -> {Numpy, Matplotlib, Ase, Pymatgen, "..."};
+
     "非Python"[style=filled,color=".7 .3 1.0"];       
     subgraph cluster0{
         rankdir=LR;
         rank = same;
-        " Python " -> "非Python"[dir=both, label="API"]}
+        " Python " -> "非Python"[dir=both, label="API", style=dotted]}
         
-    ASE -> "calculators";        
+    Ase -> "calculators";        
     subgraph cluster1{
         node [shape=box];
         label = "包";
@@ -18,7 +19,7 @@ digraph python{
         calculators -> "dmol.py";
         calculators -> "vasp";}
 
-    ASE -> "atoms.py";
+    Ase -> "atoms.py";
     subgraph cluster2{
         node [shape=box];
         label = "模块";
