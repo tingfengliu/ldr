@@ -5,11 +5,11 @@ digraph python{
     " Python "[color=lightblue,style=filled];
     " Python " -> {Numpy, Matplotlib, Ase, Pymatgen, "..."};
 
-    "非Python"[style=filled,color=".7 .3 1.0"];       
+    "应用程序"[style=filled,color=".7 .3 1.0"];       
     subgraph cluster0{
         rankdir=LR;
         rank = same;
-        " Python " -> "非Python"[dir=both, label="API", style=dotted]}
+        " Python " -> "应用程序"[label="API", style=dotted]}
         
     Ase -> "calculators";        
     subgraph cluster1{
