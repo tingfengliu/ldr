@@ -7,3 +7,7 @@ https://blog.csdn.net/heylun/article/details/78833050
 
 
 Amp: A modular approach to machine learning in atomistic simulations”, A. Khorshidi, and A.A. Peterson, Comput. Phys. Commun. 207, 310–324 (2016)
+Python易混淆点: 
+压缩和解压的含义:   
+压缩: 将可迭代对象对齐, 位置相同元素放到同一个元组  
+解压: 将可迭代对象中的元组对齐, 位置相同的元素放到同一个元组  
